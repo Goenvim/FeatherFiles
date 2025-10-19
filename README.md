@@ -2,6 +2,7 @@
 
 A lightweight, CLI-first developer operating system built on Alpine Linux.  
 Designed for speed, simplicity, and deep productivity — no desktop clutter, just tools that work.
+Currently in progress, will publish any work i make!
 
 ---
 
