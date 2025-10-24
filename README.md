@@ -40,23 +40,6 @@ FeatherFiles is built on three core principles:
 
 It’s a dev environment stripped to its essentials — fast, portable, and reliable.
 
-Repository Structure
-
-FeatherFiles-OS/
- ├─ build/
- │    ├─ base/
- │    ├─ scripts/
- │    │    ├─ feather-install.sh
- │    │    └─ post-install.sh
- │    └─ configs/
- │         ├─ .zshrc
- │         ├─ .vimrc
- │         └─ .tmux.conf
- ├─ README.md
- └─ LICENSE
 Built On
-**Alpine Linux
-Neovim
-LazyGit
-Docker
-Tmux**
+
+**Alpine Linux, Neovim, LazyGit, Docker, Tmux**
