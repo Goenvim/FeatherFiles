@@ -1,8 +1,8 @@
 # FeatherFiles OS
 
-A lightweight, CLI-first developer operating system built on Alpine Linux.  
+A lightweight, CLI-first with multi-tasking like hyprland but lighter developer operating system built on Alpine Linux.  
 Designed for speed, simplicity, and deep productivity — no desktop clutter, just tools that work.
-Currently in progress, will publish any work i make!
+Currently in progress, will publish any work i make. Maybe on December 25th i will try to publish an usable version!
 
 ---
 
